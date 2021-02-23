@@ -1,1 +1,1 @@
-# projetogit
+# PROJETO PARA ESTUDOS DO GIT
